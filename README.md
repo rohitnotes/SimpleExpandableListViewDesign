@@ -1,6 +1,4 @@
-# SimpleExpandableListViewDesign
-
-MultiItemSelectInGridView
+SimpleExpandableListViewDesign
 ==========
 
 | first      | second      | third   | working     |
